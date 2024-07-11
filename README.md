@@ -19,7 +19,7 @@ After finishing my Bachelor's, I gave my CEH ( Certified Ethical Hacker ) Exam, 
 
 I am a VAPT Analyst, who performs Penetration Testing, where I find vulnerabilities in Web Applications, Networks, and Systems.
 
-You can connect me on my Linkedin - <a href="https://www.github.com/vedantyaduvanshi" target="_blank" rel="noreferrer">Linkedin</a>
+You can connect me on my Linkedin - <a href="www.linkedin.com/in/keshavhasija" target="_blank" rel="noreferrer">Linkedin</a>
 
 <h1>Breaking the Internet ^_^ </h1>
 - 👋 Hi, I’m @keshavhasija
